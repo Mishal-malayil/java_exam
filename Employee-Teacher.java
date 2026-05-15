@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Parent class
+
 class Employee {
 
     int empid;
